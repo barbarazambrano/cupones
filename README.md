@@ -1,6 +1,6 @@
 # Cupones de Descuento
 
-   Se extraerán datos de una conocida página de cupones de descuento:  *CUPONATIC.CL*  
+   Se extraerán datos de una conocida página de cupones de descuento:   *CUPONATIC.CL*  
    
    **CUPONATIC ofrece cupones de descuento, en distintas áreas, algunas como:**
    
