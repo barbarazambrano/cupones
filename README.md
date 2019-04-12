@@ -1,13 +1,13 @@
 # Cupones de Descuento
 
-   Se extraeran datos de una conocida pagina de cupones de descuento:  *CUPONATIC.CL*  
+   Se extraerán datos de una conocida página de cupones de descuento:  *CUPONATIC.CL*  
    
-   **CUPONATIC ofrece cupones de descuento, en distintas areas, algunas como:**
+   **CUPONATIC ofrece cupones de descuento, en distintas áreas, algunas como:**
    
    ```
         - Belleza
         - Viaje y Turismo
-        - Gastronomia
+        - Gastronomáa
         - Bienestar y Salud
         - Productos
         - Servicios
@@ -15,20 +15,20 @@
         
    ```
  
- **De la seccion de Productos se extraeran datos, acerca de los precios y de cantidades vendidas de cada producto ofrecido**
+ **De la sección de Productos se extraerán datos, acerca de los precios y de cantidades vendidas de cada producto ofrecido**
   
   
   Como ejemplo
   ```
        - Moda
-       - Tecnologia
-       - Libreria
-       - Casa y Jardin
+       - Tecnología
+       - Librería
+       - Casa y Jardín
        - Cocina
        - Deporte
        
   ```
    
 
-  **Extraccion de informacion de sitio:** [CUPONATIC] ( https://www.cuponatic.com/)
+  **Extracción de información de sitio:** [CUPONATIC] ( https://www.cuponatic.com/)
 
