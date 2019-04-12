@@ -7,7 +7,7 @@
    ```
         - Belleza
         - Viaje y Turismo
-        - Gastronomáa
+        - Gastronomía
         - Bienestar y Salud
         - Productos
         - Servicios
