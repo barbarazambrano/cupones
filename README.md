@@ -10,6 +10,8 @@
         - Gastronomia
         - Bienestar y Salud
         - Productos
+        - Servicios
+        - Panoramas
         
    ```
  
@@ -18,9 +20,12 @@
   
   Como ejemplo
   ```
-       - Productos de Aseo
-       - Productos de Alimentacion
-       - Productos de hogar
+       - Moda
+       - Tecnologia
+       - Libreria
+       - Casa y Jardin
+       - Cocina
+       - Deporte
        
   ```
    
