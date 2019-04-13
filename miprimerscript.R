@@ -62,5 +62,20 @@ funcionUno()
 #ahora para ejecutar, con funciones.r cerrado
 
 source("funciones.R")
-funcionUno()
+funcionUno(3,4)
+
+#funciones son para hacer tareas repetitivas y se mostrara cada vez que se ejecute
+
+variable <- funcionUno(1,2)
+
+
+
+
+
+
+
+
+
+
+
 
